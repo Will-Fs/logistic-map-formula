@@ -1,7 +1,7 @@
 # logistic-map-formula
 Program that graphs the logistic map formula in python using pygame.
 
-Formula: f(x) = f(x-1) * R * (1 - f(x-1)); where the graph begins at a number between 1 and 0.
+Formula: f(x) = f(x-1) * R * (1 - f(x-1)); where the graph begins at a number between 1 and 0. This number can be found and changed on line 5; variable *i*.
 # DEPENDENCIES
   - python3
   - pygame 1.9.6 or higher
